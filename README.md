@@ -2,6 +2,9 @@
 
 WebDumper is a simple and effective command-line tool for downloading website content, including HTML and assets (images, scripts, and styles). It is designed to make it easy to download the source code of websites, along with their assets, for offline use or further analysis.
 
+## Usage
+- webdumper.exe <url_to_dump>
+
 ## Output
 <img src="https://i.imgur.com/xXu2qJp.png">
 
