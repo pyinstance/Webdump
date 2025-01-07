@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VVW+bYe2G4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeadN\\source\\repos\\Webdumper\\Webdumper\\Webdumper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeadN\\.nuget\\packages\\htmlagilitypack\\1.11.72\\htmlagilitypack.1.11.72.nupkg.sha512",
+    "C:\\Users\\DeadN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
